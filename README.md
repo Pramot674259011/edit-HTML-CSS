@@ -67,7 +67,7 @@ border: 8px solid black;
 <li><a href="#Forms">HTML Forms</a></li>
 <li><a href="#Semantic">Semantic HTML</a></li>
 <li><a href="W10_01_blogweb.html">BlogWeb</a></li>
-   <li><a href="Edit.html">ส่งงานแก้สอบตกปฏิบัติ</a></li>
+   <li><a href="HTML + CSS.html">ส่งงานแก้สอบตกปฏิบัติ</a></li>
 </ul>
 <hr>
 <h2 id="structure">HTML Document Structure</h2>
